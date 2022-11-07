@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c5a3b6e4fb336346bff544e05c362b6, type: 3}
+  m_Name: TapMatchConfig
+  m_EditorClassIdentifier: 
+  boardWidth: 5
+  boardHeight: 5
+  matchables:
+  - {fileID: 11400000, guid: 75d255c10738cca4e8e66bc20667b983, type: 2}
+  - {fileID: 11400000, guid: 414447ae5ca0e2140a064fbdd3f8842b, type: 2}
+  - {fileID: 11400000, guid: 59fe946f853f1fa4a9f8ae1bd764edc0, type: 2}
+  - {fileID: 11400000, guid: d8e61be6e75bf5b4191a2a9eca661014, type: 2}
+  - {fileID: 11400000, guid: ce361d587202a444a8273e5df329f368, type: 2}
+  - {fileID: 11400000, guid: c6c132d81c7f91745b4bc0f388a03141, type: 2}
